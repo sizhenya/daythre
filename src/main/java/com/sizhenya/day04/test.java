@@ -8,7 +8,7 @@ package com.sizhenya.day04;
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("hellotest");
+		System.out.println("hellotest1111");
 	}
 }
 
